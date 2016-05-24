@@ -1,3 +1,5 @@
+# Author : Arjo Ghosh আর্য্য ঘোষ
+
 import requests
 x=input("Enter username : ")
 x=x.strip()
